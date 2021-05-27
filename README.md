@@ -1,4 +1,5 @@
 # polar
+Code for my personal website. Built with Vuetify.
 
 ## Project setup
 ```
